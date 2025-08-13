@@ -1,4 +1,6 @@
-
+## 0.2.1
+* Bump ffi to 2.1,4
+* Fix: remove Register in Android Native
 ## 0.2.0
 
 * fix: Add support for android gradle version 8.1.3

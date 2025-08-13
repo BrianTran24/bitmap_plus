@@ -12,6 +12,9 @@
       <excludeFolder url="file://$MODULE_DIR$/example1/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/example1/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/example1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example1/ios/.symlinks/plugins/bitmap_plus/example1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/example1/ios/.symlinks/plugins/bitmap_plus/example1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example1/ios/.symlinks/plugins/bitmap_plus/example1/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
