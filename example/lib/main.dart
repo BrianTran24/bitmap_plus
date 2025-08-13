@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:bitmap_plus/bitmap.dart';
+import 'package:bitmap_plus/bitmap_plus.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
