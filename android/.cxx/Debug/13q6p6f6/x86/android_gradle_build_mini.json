@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/hieutran/Downloads/0.2.0/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hieutran/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/hieutran/Downloads/0.2.0/android/.cxx/Debug/13q6p6f6/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hieutran/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/hieutran/Downloads/0.2.0/android/.cxx/Debug/13q6p6f6/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bitmap::@6890427a1f51a3e7e1df": {
+      "artifactName": "bitmap",
+      "abi": "x86",
+      "output": "/Users/hieutran/Downloads/0.2.0/example/build/bitmap/intermediates/cxx/Debug/13q6p6f6/obj/x86/libbitmap.so",
+      "runtimeFiles": []
+    }
+  }
+}

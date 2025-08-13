@@ -1,0 +1,4 @@
+# ninja log v5
+0	124	1755070090175034723	CMakeFiles/bitmap.dir/Users/hieutran/Downloads/0.2.0/ios/Classes/bitmap.cpp.o	65432cc68ea0eff
+125	167	1755070090217773575	/Users/hieutran/Downloads/0.2.0/example/build/bitmap/intermediates/cxx/Debug/13q6p6f6/obj/arm64-v8a/libbitmap.so	79b1e0bd5d1a116
+1	42	1755070446652134273	/Users/hieutran/Downloads/0.2.0/example/build/bitmap/intermediates/cxx/Debug/13q6p6f6/obj/arm64-v8a/libbitmap.so	79b1e0bd5d1a116
