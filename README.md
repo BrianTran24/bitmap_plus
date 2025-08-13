@@ -1,9 +1,11 @@
 
 ![transform image dog](https://raw.githubusercontent.com/bluefireteam/bitmap/9cd10ebf04/transform.jpg)
 
-# Flutter Bitmap
+# Flutter Bitmap Plus
 
 [![Pub](https://img.shields.io/pub/v/bitmap.svg?style=popout)](https://pub.dartlang.org/packages/bitmap)
+
+this is project pull from bitmap lib. And fix outdated issue and add some new feature
 
 A minimalist [Flutter](https://flutter.dev/) package to perform fast bitmaps operations.
 The focus here is to provide a cool bitmap manipulation interface.
