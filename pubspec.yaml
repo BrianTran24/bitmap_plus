@@ -1,6 +1,6 @@
 name: bitmap_plus
 description: Bitmap is a fast and minimalistic lib that heelps you to manipulate image on Flutter apps.
-version: 0.2.0
+version: 0.2.1
 homepage: https://github.com/BrianTran24/bitmap_plus
 topics: [image, image-processing, ffi]
 
